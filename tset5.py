@@ -1,11 +1,9 @@
 mylist = ['blue','orange','green']
 mapped_dict = (zip(itr, map(fn, itr)))
-keys = ['name', 'age', 'City']
 print(mapped_dict)
 
 def function():
     """开发一半的代码"""
-    print("map")
 
 print("第一部分")
 print("第二部分")
